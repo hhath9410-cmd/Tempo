@@ -9,3 +9,4 @@ A standalone daily planner and habit tracker that works in a mobile browser.
 3. Add tasks as one-day tasks, daily habits, or weekly tasks.
 
 The app is self-contained and requires no build step or dependencies.
+https://hhath9410-cmd.github.io/Tempo/
